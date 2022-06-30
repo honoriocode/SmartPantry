@@ -5,6 +5,7 @@ import datetime
 import time
 import os
 
+#honoriocode_contribution
 #new dataframe
 
 df = pd.DataFrame(columns =['Name', 'Price', 'Quantity', 'Date'])
